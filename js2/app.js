@@ -10,3 +10,4 @@ function createcourse(coursename) {
 
 createcourse("Angular");
 createcourse("React");
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
